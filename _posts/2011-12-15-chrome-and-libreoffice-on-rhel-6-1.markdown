@@ -32,7 +32,9 @@ comments: []
 <p><b>Chrome</b></p>
 <p>Until recently I was using <a href="http://www.cs.bham.ac.uk/~cxs548/chrome" title="Chromium build" target="_blank">Chris Staite's Chromium build</a>. It works well, only it was stuck at version 14.</p>
 <p>So I decided to try my luck and inflate the <a href="http://www.google.com/chrome/intl/en/eula_beta.html?dl=beta_amd64_rpm" title="64-bit Chrome Beta" target="_blank">official Google Chrome RPM</a>. So I did the following:</p>
-<p>{% gist asolkar/99fa15c8520996c5894ff8d1bd94ea66a43970db %}</p>
+
+{% gist asolkar/99fa15c8520996c5894ff8d1bd94ea66a43970db %}
+
 <p>This creates a directory structure under <code>/one/of/my/dirs</code> with chrome installed at <code>/one/of/my/dirs/sys/opt/google/chrome/google-chrome</code>.</p>
 <p>Now, either this process is <i>supposed</i> to work, or I was incredibly lucky. But once I pointed <code>LD_LIBRARY_PATH</code> appropriately, chrome launches and works fine! Here's the launcher I use:</p>
 <p>[gist https://gist.github.com/asolkar/1484599 file="chrome-starter.csh" /]</p>
