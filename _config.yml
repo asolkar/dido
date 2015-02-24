@@ -1,0 +1,17 @@
+# Site settings
+title: Day in... day out...
+email: mahesh@mahesha.com
+description: > # this means to ignore newlines until "baseurl:"
+  Life without technology these days is hard to imagine. From the wake-up alarm
+  on a Blackberry to Tonight Show with Jay Leno on an HDTV and everything during
+  the day deals with a lot of technology. Add to it my fascination for tech
+  gadgets and computers, there ends up being a lot to talk about.
+
+  This blog is about my encounters with high tech.
+baseurl: "/dido" # the subpath of your site, e.g. /blog/
+url: "http://asolkar.github.io" # the base hostname & protocol for your site
+twitter_username: asolkar
+github_username:  asolkar
+
+# Build settings
+markdown: kramdown

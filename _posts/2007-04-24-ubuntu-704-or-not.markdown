@@ -1,0 +1,30 @@
+---
+layout: post
+status: publish
+published: true
+title: Ubuntu 7.04... or not?!
+author:
+  display_name: Mahesh Asolkar
+  login: Mahesh
+  email: mahesh@mahesha.com
+  url: http://profiles.google.com/104769499705387203231/about
+author_login: Mahesh
+author_email: mahesh@mahesha.com
+author_url: http://profiles.google.com/104769499705387203231/about
+wordpress_id: 23
+wordpress_url: http://tech.mahesha.com/2007/04/24/ubuntu-704-or-not/
+date: '2007-04-24 10:41:19 -0700'
+date_gmt: '2007-04-24 18:41:19 -0700'
+categories: []
+tags:
+- Linux
+- Ubuntu
+- Feisty
+comments: []
+---
+<p>Over the weekend, I <a href="http://www.ubuntu.com/getubuntu/upgrading" title="Upgrading Ubuntu 6.10 to 7.04">upgraded</a> the <a href="https://wiki.ubuntu.com/EdgyEft" title="Ubuntu 6.10 the Edgy Eft">Edgy</a> to <a href="https://wiki.ubuntu.com/FeistyFawn" title="Ubuntu 7.04 the Feisty Fawn">Feisty</a> on my laptop. The upgrade went just fine, mostly.</p>
+<p>The sound is gone. Just like it was after a clean install of 6.10 a few months back. I'll need to read up a bit and get the audio working.</p>
+<p>There was a broken <code>emacs21</code> module - battery had died when I installed it and I did not clean it up. The upgrade process quit once due to dependency issues with this module. I removed the module and started the upgrade again. It went through. It used all the same downloaded files from the failed attempt.</p>
+<p>During the upgrade process, I was constantly worried if I was really upgrading to 7.04 (see the snapshot below). The Upgrade Manager window said <em>Upgrading Ubuntu to version 6.10</em>!. But <em>About Ubuntu</em> was already updated to read 7.04!</p>
+<p><a href="http://tech.mahesha.com/wp-content/images/ubuntu_7.04_or_not.png"><img src="http://tech.mahesha.com/wp-content/images/ubuntu_7.04_or_not.png" alt="Ubuntu 7.04 or not!" style="width: 450px" /></a></p>
+<p>Back to work...</p>

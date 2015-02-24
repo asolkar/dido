@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: Welcome 2007
+author:
+  display_name: Mahesh Asolkar
+  login: Mahesh
+  email: mahesh@mahesha.com
+  url: http://profiles.google.com/104769499705387203231/about
+author_login: Mahesh
+author_email: mahesh@mahesha.com
+author_url: http://profiles.google.com/104769499705387203231/about
+wordpress_id: 73
+wordpress_url: http://tech.mahesha.com/2007/01/01/welcome-2007/
+date: '2007-01-01 00:30:08 -0800'
+date_gmt: '2007-01-01 08:30:08 -0800'
+categories:
+- Uncategorized
+tags:
+- Greetings
+comments: []
+---
+<p>Wish you all a very happy, prosperous and successful New Year!</p>
+<p>Write down those resolutions before you crash tonight... Remembering the resolutions made on the New Year's eve when you get up on the 1<sup>st</sup> is the first step towards keeping them :P</p>
+<p>Cheers!</p>

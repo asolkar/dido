@@ -1,0 +1,30 @@
+---
+layout: post
+status: publish
+published: true
+title: Snow season 2005!
+author:
+  display_name: Mahesh Asolkar
+  login: Mahesh
+  email: mahesh@mahesha.com
+  url: http://profiles.google.com/104769499705387203231/about
+author_login: Mahesh
+author_email: mahesh@mahesha.com
+author_url: http://profiles.google.com/104769499705387203231/about
+wordpress_id: 59
+wordpress_url: http://tech.mahesha.com/2005/12/18/snow-season-2005/
+date: '2005-12-18 22:21:49 -0800'
+date_gmt: '2005-12-19 06:21:49 -0800'
+categories:
+- Uncategorized
+tags:
+- Greetings
+- Weather
+- Snow
+comments: []
+---
+<p>So... the snow season this year took off to a great start last weekend when Aditi and I went up to <a href="http://www.skihood.com" title="Mt. Hood website">Mt. Hood</a> to break-in the Snowboard. Although I enjoyed a few hours of snowboarding in the most excellent snow I've experienced for a long-long while, Aditi just got a feel of the snow!</p>
+<p><img class="centered" src='/uploads/mthood2005.jpg' title='Mahesh at Mt. Hood' alt='Mahesh at Mt. Hood' /></p>
+<p>I had all plans to hit the slopes this weekend, but I had to postpone it in favor of preparing for the trip to Hawaii next week. Looks like the snow missed me as much as I missed it... so it showed up here in Hillsboro!</p>
+<p><img class="centered" src='/uploads/hillsborosnow2005.jpg' title='Snow in Hillsboro' alt='Snow in Hillsboro' /></p>
+<p>A welcome surprise, to me at least ;)</p>

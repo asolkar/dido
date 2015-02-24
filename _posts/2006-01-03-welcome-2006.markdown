@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: Welcome 2006!
+author:
+  display_name: Mahesh Asolkar
+  login: Mahesh
+  email: mahesh@mahesha.com
+  url: http://profiles.google.com/104769499705387203231/about
+author_login: Mahesh
+author_email: mahesh@mahesha.com
+author_url: http://profiles.google.com/104769499705387203231/about
+wordpress_id: 60
+wordpress_url: http://tech.mahesha.com/2006/01/03/welcome-2006/
+date: '2006-01-03 17:33:13 -0800'
+date_gmt: '2006-01-04 01:33:13 -0800'
+categories:
+- Uncategorized
+tags:
+- Greetings
+comments: []
+---
+<p>It usually takes me a couple of days to get out of the <i>end-of-the-holiday-season blues</i>! So now, here's wishing you all a Very Happy New Year ahead.</p>
+<p>I am not disclosing my new year's resolution, but hope to stick to it at least until the end of the year.</p>
+<p>In other news, under the hood of course, I moved the blog to <a href="http://wordpress.org/development/2005/12/wp2/trackback/" title="What's in WP2.0?">WordPress 2.0</a>. Upgrade was like a breeze. Kudos to WP folks!</p>
+<p>Until later...</p>
